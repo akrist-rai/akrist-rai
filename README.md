@@ -62,13 +62,7 @@ I'm a **B.Tech (ECE) student** who enjoys working at the intersection of
 #### Neural Architectures & Models
 - CNN (Convolutional Neural Networks)
 - RNN, LSTM
-- Transformers
-- Multi-Head Attention (MHA)
-- Grouped Query Attention (GQA)
-- Multi-Query Attention (MQA)
-- Rotary Positional Embeddings (RoPE)
-- Flash Attention
-- Retrieval-Augmented Generation (RAG)
+- Transformers - MoE , MHA , GQA , MQA , RoPE , flash attention , deep seak sparce attention , rag
 
 #### Graph & Sequential Models
 - Graph Neural Networks (GNN)
