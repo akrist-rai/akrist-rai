@@ -81,6 +81,47 @@ I'm a **B.Tech (ECE) student** who enjoys working at the intersection of
 - Memory-efficient training techniques
 - Performance-aware model design
 
+  ### 🚀 MLOps & ML Systems
+
+#### Model Development & Experimentation
+- Dataset versioning
+- Experiment tracking
+- Hyperparameter tuning
+- Reproducible training pipelines
+
+---
+
+#### Model Training & Optimization
+- Hardware-aware training (CPU/GPU)
+- Memory-efficient training
+- Batch & streaming inference concepts
+- Model performance evaluation
+
+---
+
+#### Model Serving & Deployment
+- Model packaging & serialization
+- REST-based inference services
+- Containerized model deployment
+- Model versioning & rollback strategies
+
+---
+
+#### Monitoring & Lifecycle Management
+- Model drift detection (conceptual)
+- Data drift awareness
+- Logging & metrics for ML systems
+- Model performance monitoring
+
+---
+
+#### MLOps Tooling & Infrastructure
+- Docker for ML workloads
+- Kubernetes for scalable inference
+- CI/CD concepts for ML pipelines
+- Environment & dependency management
+
+
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
