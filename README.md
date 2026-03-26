@@ -232,3 +232,44 @@ I'm a **B.Tech (ECE) student** who enjoys working at the intersection of
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akrist-rai/akrist-rai/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/akrist-rai/akrist-rai/output/github-contribution-grid-snake.svg">
 </picture>
+
+# 🚀 Tech Stack
+
+## 💻 Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts" />
+</p>
+
+## 🌐 Backend & Runtime
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,bun,express,koa" />
+</p>
+
+## 🗄️ Databases & Services
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase" />
+  <img src="https://cdn.simpleicons.org/neon/00E599" height="48"/>
+</p>
+
+## 🧩 ORM / Query
+<p align="left">
+  <img src="https://cdn.simpleicons.org/drizzle/000000" height="48"/>
+</p>
+
+## 🔌 Realtime
+<p align="left">
+  <img src="https://cdn.simpleicons.org/socketdotio/010101" height="48"/>
+</p>
+
+## 🤖 AI / ML
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+  <img src="https://cdn.simpleicons.org/numpy/013243" height="48"/>
+  <img src="https://cdn.simpleicons.org/pandas/150458" height="48"/>
+  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="48"/>
+</p>
+
+## ⚙️ DevOps & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,docker,kubernetes" />
+</p>
