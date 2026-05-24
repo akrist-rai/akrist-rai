@@ -1,8 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:0A192F,100:7B2FBE&height=220&section=header&text=Akrist%20Rai&fontSize=64&fontColor=00D9FF&animation=fadeIn&fontAlignY=40&desc=ECE%20%E2%80%A2%20Deep%20Learning%20%E2%80%A2%20Systems%20%E2%80%A2%20Web%20%E2%80%A2%20Security&descAlignY=62&descSize=20&descColor=ffffff" width="100%" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+AI+systems+that+scale+🚀;Graph+Neural+Networks+%2B+State+Space+Models;Low-level+systems+%7C+High-level+impact;ECE+Student+%40+IIIT+Vadodara" alt="Typing SVG" />
+
 
 <br/>
 
@@ -199,45 +198,4 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=akrist-rai&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="180" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=akrist-rai&theme=tokyonight&hide_border=true" height="180" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akrist-rai&layout=donut&theme=tokyonight&hide_border=true&langs_count=10" height="220" />
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akrist-rai&theme=tokyo-night&hide_border=true&area=true&color=00D9FF&line=7B2FBE&point=00D9FF&area_color=0A192F" width="96%" />
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akrist-rai&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=6" width="96%" />
-</div>
-
----
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akrist-rai/akrist-rai/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akrist-rai/akrist-rai/output/github-contribution-grid-snake.svg">
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/akrist-rai/akrist-rai/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FBE,50:0A192F,100:0D1117&height=130&section=footer" width="100%" />
