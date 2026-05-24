@@ -1,33 +1,72 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:0A192F,100:7B2FBE&height=220&section=header&text=Akrist%20Rai&fontSize=64&fontColor=00D9FF&animation=fadeIn&fontAlignY=40&desc=ECE%20%E2%80%A2%20Deep%20Learning%20%E2%80%A2%20Systems%20%E2%80%A2%20Web%20%E2%80%A2%20Security&descAlignY=62&descSize=20&descColor=ffffff" width="100%" />
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Akrist+%F0%9F%91%8B;ECE+Student+%7C+Builder+%7C+Researcher;Deep+Learning+%E2%80%A2+Systems+%E2%80%A2+Web+%E2%80%A2+Security" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+AI+systems+that+scale+🚀;Graph+Neural+Networks+%2B+State+Space+Models;Low-level+systems+%7C+High-level+impact;ECE+Student+%40+IIIT+Vadodara" alt="Typing SVG" />
 
 <br/>
 
-**B.Tech ECE @ IIIT Vadodara** &nbsp;•&nbsp; Building at the intersection of **AI**, **Systems**, and the **Web**
-
-<br/>
-
+[![Profile Views](https://komarev.com/ghpvc/?username=akrist-rai&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/akrist-rai)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akrist-rai-b510593b1/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akrist-rai)
 
+<br/>
+
+![AI](https://img.shields.io/badge/🧠_Deep_Learning-Expert-0A192F?style=flat-square)
+![Systems](https://img.shields.io/badge/⚙️_Systems_Programming-Proficient-102230?style=flat-square)
+![Web](https://img.shields.io/badge/🌐_Full--Stack_Web-Proficient-0F3460?style=flat-square)
+![Security](https://img.shields.io/badge/🔐_Cryptography_&_Security-Learning-533483?style=flat-square)
+
 </div>
+
+<br/>
 
 ---
 
-## 🔭 Flagship Project &nbsp;—&nbsp; **Commute** 🚦
+## 🔭 Currently Building
 
-> *Spatio-Temporal Traffic Flow Prediction using Graph Neural Networks*
+<table>
+<tr>
+<td width="55%">
 
-| Component | Technology | Role |
-|-----------|-----------|------|
-| **Spatial Modeling** | Graph Attention Networks (GAT) | Capture road network dependencies |
-| **Temporal Modeling** | Mamba — State Space Models (SSM) | Learn long-range time patterns |
-| **Goal** | Spatio-Temporal GNN | Real-time city-scale traffic forecasting |
+### Commute 🚦
+**Spatio-Temporal Traffic Flow Prediction**
 
-![Status](https://img.shields.io/badge/Status-Active_Development_🚧-FF6B6B?style=flat-square)
-![Domain](https://img.shields.io/badge/Domain-Traffic_AI-00D9FF?style=flat-square)
-![Stack](https://img.shields.io/badge/Stack-PyTorch_+_PyG-EE4C2C?style=flat-square&logo=pytorch)
+> Capturing how cities breathe — predicting traffic by learning both *where* congestion forms (space) and *when* it peaks (time), simultaneously.
+
+| Layer | Tech | What it does |
+|-------|------|-------------|
+| **Spatial** | Graph Attention Networks | Models road topology & intersection weights |
+| **Temporal** | Mamba (SSM) | Long-range sequence dependency across time |
+| **Fusion** | Spatio-Temporal GNN | Joint prediction across the full city graph |
+
+![Status](https://img.shields.io/badge/🚧_Status-Active_Development-FF6B6B?style=flat-square)
+![Stack](https://img.shields.io/badge/PyTorch_+_PyG-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Domain](https://img.shields.io/badge/Traffic_AI_•_Graph_ML-00D9FF?style=flat-square)
+
+</td>
+<td width="45%" align="center">
+
+```
+        City Graph
+       ┌───────────┐
+  Node │  Junction │  ← GAT weights edges
+  Feat │  Speed    │    by traffic importance
+       └─────┬─────┘
+             │  time axis →
+       ┌─────▼─────────────┐
+  SSM  │ t₀  t₁  t₂  t₃  │  ← Mamba models
+  Seq  │ ▓▓  ▓░  ░░  ░▓  │    temporal drift
+       └────────────────────┘
+             │
+       ┌─────▼─────┐
+  Out  │  ŷ t+Δ   │  ← predicted flow
+       └───────────┘
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -39,6 +78,17 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,go,rust,python,java,js,ts,kotlin,lua&perline=10" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/C-Systems-00599C?style=flat-square&logo=c" />
+  <img src="https://img.shields.io/badge/C++-OOP_&_Embedded-00599C?style=flat-square&logo=cplusplus" />
+  <img src="https://img.shields.io/badge/Go-Concurrency_&_Networking-00ADD8?style=flat-square&logo=go" />
+  <img src="https://img.shields.io/badge/Rust-Memory_Safety-CE422B?style=flat-square&logo=rust" />
+  <img src="https://img.shields.io/badge/Python-AI_&_Scripting-3776AB?style=flat-square&logo=python" />
+  <img src="https://img.shields.io/badge/TypeScript-Type--safe_Web-3178C6?style=flat-square&logo=typescript" />
+  <img src="https://img.shields.io/badge/Kotlin-JVM_&_Android-7F52FF?style=flat-square&logo=kotlin" />
+  <img src="https://img.shields.io/badge/Lua-Scripting-2C2D72?style=flat-square&logo=lua" />
+</p>
+
 ---
 
 ### 🤖 AI / Machine Learning
@@ -46,58 +96,51 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&perline=10" />
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/numpy/013243" height="48" title="NumPy"/>
+  <img src="https://cdn.simpleicons.org/numpy/4DABCF" height="48" title="NumPy"/>
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/pandas/150458" height="48" title="Pandas"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/GNN-Graph_Neural_Networks-0A192F?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GAT-Graph_Attention_Networks-102230?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SSM-Mamba_State_Space_Models-1A1A2E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Transformers-MHA_•_MoE_•_GQA_•_RoPE-16213E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CNN_•_RNN_•_LSTM-Sequential_Models-0F3460?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GANs_•_VAEs-Generative_Models-533483?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Reinforcement_Learning-RL-E94560?style=for-the-badge" />
-</p>
-
----
-
-### 🚀 MLOps & Systems
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Hardware--Aware_Training-GPU/CPU-76B900?style=for-the-badge&logo=nvidia" />
-  <img src="https://img.shields.io/badge/Experiment_Tracking-MLOps-FF6F00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Model_Serving-REST_Inference-0078D4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Systems_Design-Distributed_Systems-2C3E50?style=for-the-badge" />
-</p>
-
----
-
-### 🌐 Frontend & Realtime
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react" />
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/socketdotio/white" height="48" title="Socket.io"/>
+  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="48" title="scikit-learn"/>
+</p>
+
+<br/>
+
+<div align="center">
+
+**Architectures I work with**
+
+| Graph & Spatial | Sequential & Temporal | Generative | Training |
+|:-:|:-:|:-:|:-:|
+| GNN · GAT · GCN | Mamba/SSM · LSTM · RNN | GANs · VAEs | Hardware-Aware |
+| Spatio-Temporal | Transformers (MHA · MoE · GQA · RoPE) | RL + VAE | Memory-Efficient |
+| Flash Attention | DeepSeek Sparse Attn | — | Mixed Precision |
+
+</div>
+
+---
+
+### 🌐 Web Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,django&perline=10" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/koajs/FFFFFF" height="48" title="Koa.js"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/bun/F9F1E1" height="48" title="Bun"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/socketdotio/FFFFFF" height="48" title="Socket.io"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/WebSocket-Real--time_Protocol-010101?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Socket.io-Bidirectional_Events-010101?style=for-the-badge&logo=socketdotio" />
+  <img src="https://img.shields.io/badge/WebSocket-Real--time-010101?style=flat-square" />
+  <img src="https://img.shields.io/badge/REST_API-Design-005571?style=flat-square" />
+  <img src="https://img.shields.io/badge/JWT_•_Sessions-Auth-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Helmet_•_CORS_•_CSP-Security_Headers-red?style=flat-square" />
 </p>
 
 ---
 
-### ⚙️ Backend & Runtime
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,bun,express,koa,django&perline=10" />
-</p>
-
----
-
-### 🗄️ Databases & ORM
+### 🗄️ Databases & Data Layer
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase&perline=10" />
@@ -106,35 +149,45 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SQL-Relational_Queries-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Drizzle_ORM-Type--safe_Queries-C5F74F?style=for-the-badge&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logoColor=black" />
+  <img src="https://img.shields.io/badge/Neon_Serverless-00E599?style=flat-square" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
 </p>
 
 ---
 
-### ☁️ DevOps & Cloud
+### ☁️ DevOps · Cloud · Systems
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,linux,aws&perline=10" />
+  <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,linux,aws,arch&perline=10" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=arch&perline=10" />
+  <img src="https://img.shields.io/badge/Systems_Design-Distributed_Arch-2C3E50?style=flat-square" />
+  <img src="https://img.shields.io/badge/CI/CD-Pipelines-2088FF?style=flat-square&logo=github-actions" />
+  <img src="https://img.shields.io/badge/Containerized_ML-Docker_+_K8s-2496ED?style=flat-square&logo=docker" />
 </p>
 
 ---
 
 ### 🔐 Cryptography & Security
 
-<p align="center">
-  <img src="https://img.shields.io/badge/RSA-Public_Key_Cryptography-2C3E50?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AES-Symmetric_Encryption-1ABC9C?style=for-the-badge" />
+<div align="center">
+
+**Cryptographic Primitives**
+
+<p>
+  <img src="https://img.shields.io/badge/RSA-Public_Key-2C3E50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AES-Symmetric-1ABC9C?style=for-the-badge" />
   <img src="https://img.shields.io/badge/DES-Block_Cipher-E74C3C?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Diffie--Hellman-Key_Exchange-8E44AD?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ECC-Elliptic_Curve_Cryptography-2980B9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ECC-Elliptic_Curve-2980B9?style=for-the-badge" />
 </p>
 
-<p align="center">
+**Offensive & Defensive Tooling**
+
+<p>
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Nmap-004A7C?style=for-the-badge" />
@@ -142,19 +195,29 @@
   <img src="https://img.shields.io/badge/John_the_Ripper-000000?style=for-the-badge" />
 </p>
 
+</div>
+
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=akrist-rai&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=akrist-rai&theme=tokyonight&hide_border=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=akrist-rai&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="180" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=akrist-rai&theme=tokyonight&hide_border=true" height="180" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akrist-rai&layout=compact&theme=tokyonight&hide_border=true&langs_count=12" width="52%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akrist-rai&layout=donut&theme=tokyonight&hide_border=true&langs_count=10" height="220" />
 
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akrist-rai&theme=tokyo-night&hide_border=true&area=true&color=00D9FF&line=7B2FBE&point=00D9FF&area_color=0A192F" width="96%" />
 </div>
 
 ---
@@ -162,7 +225,7 @@
 ## 🏆 Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akrist-rai&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=akrist-rai&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=6" width="96%" />
 </div>
 
 ---
@@ -172,10 +235,9 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akrist-rai/akrist-rai/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akrist-rai/akrist-rai/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/akrist-rai/akrist-rai/output/github-contribution-grid-snake.svg">
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/akrist-rai/akrist-rai/output/github-contribution-grid-snake.svg" />
 </picture>
 
-<br/>
-<sub>Built with focus. Deployed with intent.</sub>
-
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FBE,50:0A192F,100:0D1117&height=130&section=footer" width="100%" />
