@@ -1,7 +1,5 @@
 
-      
 <div align="center">
-
 
 
 <br/>
@@ -218,91 +216,42 @@
 ---
 
 #### 🔑 Applied Cryptography
-> *Completed Prof. Christof Paar's 25-lecture university cryptography course (Ruhr University Bochum)*
 
-<div align="center">
 
-**Mathematical Foundations**
-
-<p>
-  <img src="https://img.shields.io/badge/Modular_Arithmetic-Number_Theory_Core-0D1117?style=flat-square&labelColor=00D9FF&color=0A192F" />
-  <img src="https://img.shields.io/badge/Galois_Fields-GF(2⁸)_for_AES-0A192F?style=flat-square" />
-  <img src="https://img.shields.io/badge/Discrete_Logarithm_Problem-DLP_Hardness-102230?style=flat-square" />
-  <img src="https://img.shields.io/badge/Integer_Factorization-RSA_Foundation-0F3460?style=flat-square" />
-  <img src="https://img.shields.io/badge/Euler's_Theorem_•_Fermat-Modular_Exponentiation-1a1a2e?style=flat-square" />
-  <img src="https://img.shields.io/badge/Extended_Euclidean_Algorithm-Key_Inversion-16213E?style=flat-square" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Modular_Arithmetic-Number_Theory_•_Euler_•_Fermat-0A192F?style=flat-square" />
+  <img src="https://img.shields.io/badge/Galois_Fields-GF(2⁸)_•_Polynomial_Arithmetic-102230?style=flat-square" />
+  <img src="https://img.shields.io/badge/Discrete_Logarithm_Problem-DLP_•_Cyclic_Groups-0F3460?style=flat-square" />
+  <img src="https://img.shields.io/badge/Integer_Factorization-RSA_Hardness_Assumption-1a1a2e?style=flat-square" />
+  <img src="https://img.shields.io/badge/Extended_Euclidean_Algorithm-Modular_Inverse_•_GCD-16213E?style=flat-square" />
+  <img src="https://img.shields.io/badge/One--Time_Pad-Perfect_Secrecy_•_XOR_Cipher-1ABC9C?style=flat-square" />
+  <img src="https://img.shields.io/badge/LFSR-Linear_Feedback_Shift_Register_•_Berlekamp--Massey-16A085?style=flat-square" />
+  <img src="https://img.shields.io/badge/Stream_Ciphers-RC4_•_A5/1_•_Trivium_•_ChaCha20-148F77?style=flat-square" />
+  <img src="https://img.shields.io/badge/PRNG-Cryptographically_Secure_Randomness-0E6655?style=flat-square" />
+  <img src="https://img.shields.io/badge/DES-Feistel_Network_•_56--bit_•_16_Rounds-E74C3C?style=flat-square" />
+  <img src="https://img.shields.io/badge/3DES-EDE_Mode_•_112--bit_Effective_Key-C0392B?style=flat-square" />
+  <img src="https://img.shields.io/badge/AES_(Rijndael)-SubBytes_•_ShiftRows_•_MixColumns_•_Key_Schedule-922B21?style=flat-square" />
+  <img src="https://img.shields.io/badge/ECB_Mode-Electronic_Codebook_(Insecure)-7F8C8D?style=flat-square" />
+  <img src="https://img.shields.io/badge/CBC_Mode-Cipher_Block_Chaining_•_IV_Reuse_Attacks-2980B9?style=flat-square" />
+  <img src="https://img.shields.io/badge/CTR_Mode-Counter_•_Nonce_•_Parallelizable-1F618D?style=flat-square" />
+  <img src="https://img.shields.io/badge/OFB_•_CFB-Output_&_Cipher_Feedback_Modes-154360?style=flat-square" />
+  <img src="https://img.shields.io/badge/GCM-Authenticated_Encryption_•_AEAD_•_GHASH-117A65?style=flat-square" />
+  <img src="https://img.shields.io/badge/RSA-Key_Generation_•_PKCS%231_•_OAEP_•_PSS-8E44AD?style=flat-square" />
+  <img src="https://img.shields.io/badge/Diffie--Hellman_Key_Exchange-DHKE_•_Ephemeral_•_Forward_Secrecy-7D3C98?style=flat-square" />
+  <img src="https://img.shields.io/badge/Elgamal-DLP--based_Encryption_•_Probabilistic-6C3483?style=flat-square" />
+  <img src="https://img.shields.io/badge/Elliptic_Curve_Cryptography-Point_Addition_•_Scalar_Multiplication_•_ECDLP-5B2C6F?style=flat-square" />
+  <img src="https://img.shields.io/badge/ECDH-Elliptic_Curve_Diffie--Hellman_•_NIST_Curves-4A235A?style=flat-square" />
+  <img src="https://img.shields.io/badge/Hash_Functions-MD5_•_SHA--1_•_SHA--256_•_SHA--3_•_Merkle--Damgård-E67E22?style=flat-square" />
+  <img src="https://img.shields.io/badge/Collision_Resistance-Birthday_Paradox_•_Preimage_Resistance-D35400?style=flat-square" />
+  <img src="https://img.shields.io/badge/MAC-HMAC_•_CMAC_•_Poly1305_•_Length_Extension_Attack-BA4A00?style=flat-square" />
+  <img src="https://img.shields.io/badge/Digital_Signatures-RSA--PSS_•_DSA_•_ECDSA_•_Unforgeability-A04000?style=flat-square" />
+  <img src="https://img.shields.io/badge/PKI-X.509_Certificates_•_CA_•_Chain_of_Trust-2ECC71?style=flat-square" />
+  <img src="https://img.shields.io/badge/Key_Establishment-Station--to--Station_•_Authenticated_DH-27AE60?style=flat-square" />
+  <img src="https://img.shields.io/badge/TLS/SSL-Handshake_•_Record_Protocol_•_Certificate_Verification-1E8449?style=flat-square" />
+  <img src="https://img.shields.io/badge/Classical_Ciphers-Caesar_•_Affine_•_Vigenère_•_Substitution-2C3E50?style=flat-square" />
+  <img src="https://img.shields.io/badge/Cryptanalysis-Frequency_Analysis_•_Brute--force_•_Meet--in--the--Middle-34495E?style=flat-square" />
+  <img src="https://img.shields.io/badge/Enigma_Machine-Rotor_Cipher_•_Kerckhoffs's_Principle-273746?style=flat-square" />
 </p>
-
-**Symmetric Cryptography — Stream Ciphers**
-
-<p>
-  <img src="https://img.shields.io/badge/One--Time_Pad_(OTP)-Perfect_Secrecy-1ABC9C?style=flat-square" />
-  <img src="https://img.shields.io/badge/LFSR-Linear_Feedback_Shift_Register-16A085?style=flat-square" />
-  <img src="https://img.shields.io/badge/RC4_•_A5/1_•_Trivium-Stream_Cipher_Families-148F77?style=flat-square" />
-  <img src="https://img.shields.io/badge/Pseudorandom_Number_Generators-PRNG_Security-0E6655?style=flat-square" />
-</p>
-
-**Symmetric Cryptography — Block Ciphers**
-
-<p>
-  <img src="https://img.shields.io/badge/DES-Feistel_Network_•_56--bit_Key-E74C3C?style=flat-square" />
-  <img src="https://img.shields.io/badge/3DES-Triple_DES_•_EDE_Mode-C0392B?style=flat-square" />
-  <img src="https://img.shields.io/badge/AES_(Rijndael)-128/192/256--bit_•_SubBytes_•_ShiftRows_•_MixColumns-E74C3C?style=flat-square" />
-  <img src="https://img.shields.io/badge/Key_Schedule-Round_Key_Derivation-922B21?style=flat-square" />
-</p>
-
-**Block Cipher Modes of Operation**
-
-<p>
-  <img src="https://img.shields.io/badge/ECB-Electronic_Codebook_(Insecure)-7F8C8D?style=flat-square" />
-  <img src="https://img.shields.io/badge/CBC-Cipher_Block_Chaining-2980B9?style=flat-square" />
-  <img src="https://img.shields.io/badge/CTR-Counter_Mode-1F618D?style=flat-square" />
-  <img src="https://img.shields.io/badge/OFB_•_CFB-Output_•_Cipher_Feedback-154360?style=flat-square" />
-  <img src="https://img.shields.io/badge/GCM-Authenticated_Encryption_(AEAD)-117A65?style=flat-square" />
-</p>
-
-**Asymmetric / Public-Key Cryptography**
-
-<p>
-  <img src="https://img.shields.io/badge/RSA-PKCS%231_•_OAEP_•_PSS-8E44AD?style=flat-square" />
-  <img src="https://img.shields.io/badge/Diffie--Hellman_Key_Exchange-DHKE_•_Forward_Secrecy-7D3C98?style=flat-square" />
-  <img src="https://img.shields.io/badge/Elgamal_Cryptosystem-DLP--based_Encryption-6C3483?style=flat-square" />
-  <img src="https://img.shields.io/badge/Elliptic_Curve_Cryptography-ECC_•_Point_Multiplication-5B2C6F?style=flat-square" />
-  <img src="https://img.shields.io/badge/ECDH-Elliptic_Curve_Diffie--Hellman-4A235A?style=flat-square" />
-</p>
-
-**Integrity, Authentication & Signatures**
-
-<p>
-  <img src="https://img.shields.io/badge/Hash_Functions-MD5_•_SHA--1_•_SHA--256_•_SHA--3-E67E22?style=flat-square" />
-  <img src="https://img.shields.io/badge/MACs-HMAC_•_CMAC_•_Poly1305-D35400?style=flat-square" />
-  <img src="https://img.shields.io/badge/Digital_Signatures-RSA--PSS_•_DSA_•_ECDSA-BA4A00?style=flat-square" />
-  <img src="https://img.shields.io/badge/Collision_Resistance-Birthday_Attack-A04000?style=flat-square" />
-  <img src="https://img.shields.io/badge/Second_Preimage_Resistance-Hash_Security_Properties-884EA0?style=flat-square" />
-</p>
-
-**Key Management & Infrastructure**
-
-<p>
-  <img src="https://img.shields.io/badge/Public_Key_Infrastructure-PKI_•_X.509_Certificates-2ECC71?style=flat-square" />
-  <img src="https://img.shields.io/badge/Certificate_Authorities-CA_•_Chain_of_Trust-27AE60?style=flat-square" />
-  <img src="https://img.shields.io/badge/Key_Establishment_Protocols-Station--to--Station-1E8449?style=flat-square" />
-  <img src="https://img.shields.io/badge/TLS/SSL_Handshake-Protocol_Internals-196F3D?style=flat-square" />
-</p>
-
-**Classical Ciphers & Cryptanalysis**
-
-<p>
-  <img src="https://img.shields.io/badge/Caesar_•_Affine_•_Vigenère-Historical_Ciphers-2C3E50?style=flat-square" />
-  <img src="https://img.shields.io/badge/Substitution_•_Transposition-Classical_Analysis-34495E?style=flat-square" />
-  <img src="https://img.shields.io/badge/Frequency_Analysis-Ciphertext--only_Attack-2E4053?style=flat-square" />
-  <img src="https://img.shields.io/badge/Enigma_Machine-Rotor_Cipher_Analysis-273746?style=flat-square" />
-  <img src="https://img.shields.io/badge/Brute--force_•_Meet--in--the--Middle-Cryptanalysis-1B2631?style=flat-square" />
-</p>
-
-</div>
 
 ---
-
-
 
