@@ -168,17 +168,7 @@
 
 ### 🔐 Security & Cryptography
 
-#### 🛠 Tooling
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-004A7C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/John_the_Ripper-000000?style=for-the-badge" />
-</p>
-
----
 
 #### 💥 Web Application Attacks
 
