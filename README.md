@@ -1,4 +1,3 @@
-
 <div align="center">
 
 
@@ -11,9 +10,10 @@
 <br/>
 
 ![AI](https://img.shields.io/badge/🧠_Deep_Learning-0A192F?style=flat-square)
-![Systems](https://img.shields.io/badge/⚙️_Systems_Programming-102230?style=flat-square)
-![Web](https://img.shields.io/badge/🌐_Full--Stack_Web-0F3460?style=flat-square)
 ![Security](https://img.shields.io/badge/🔐_Web_Application_Security-533483?style=flat-square)
+![RE](https://img.shields.io/badge/🔬_Reverse_Engineering-2C3E50?style=flat-square)
+![Malware](https://img.shields.io/badge/🦠_Malware_Analysis-8E44AD?style=flat-square)
+![Systems](https://img.shields.io/badge/⚙️_Systems_Programming-102230?style=flat-square)
 ![Crypto](https://img.shields.io/badge/🔑_Applied_Cryptography-1a1a2e?style=flat-square)
 
 </div>
@@ -102,15 +102,20 @@
 
 <div align="center">
 
-**Architectures I work with**
+**Core architectures**
 
-| Graph & Spatial | Sequential & Temporal | Generative | Training |
+| Graph & Spatial | Sequential & Temporal | Generative | Security-Adjacent ML |
 |:-:|:-:|:-:|:-:|
-| GNN · GAT · GCN | Mamba/SSM · LSTM · RNN | GANs · VAEs | Hardware-Aware |
-| Spatio-Temporal | Transformers (MHA · MoE · GQA · RoPE) | RL + VAE | Memory-Efficient |
-| Flash Attention | DeepSeek Sparse Attn | — | Mixed Precision |
+| GNN · GAT · GCN | Mamba/SSM · LSTM · RNN | GANs · VAEs | Malware Classification |
+| Spatio-Temporal | Transformers (MHA · MoE · GQA · RoPE) | RL + VAE | Behavioral Anomaly Detection |
+| Flash Attention | DeepSeek Sparse Attention | — | Network Traffic Clustering |
 
 </div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Hardware--Aware_Training-Memory--Efficient_•_Mixed_Precision-0A192F?style=flat-square" />
+  <img src="https://img.shields.io/badge/Applied_ML_for_Security-Static_%26_Behavioral_Feature_Engineering-533483?style=flat-square" />
+</p>
 
 ---
 
@@ -166,9 +171,7 @@
 
 ---
 
-### 🔐 Security & Cryptography
-
-
+### 🔐 Security, Reverse Engineering & Cryptography
 
 #### 💥 Web Application Attacks
 
@@ -194,19 +197,76 @@
   <img src="https://img.shields.io/badge/OAuth_Vulnerabilities-State_•_Redirect_URI_Abuse-E67E22?style=flat-square" />
   <img src="https://img.shields.io/badge/Race_Conditions-TOCTOU_•_Limit_Bypass-1ABC9C?style=flat-square" />
   <img src="https://img.shields.io/badge/Open_Redirect-URL_Param_Exploitation-E74C3C?style=flat-square" />
-  <img src="https://img.shields.io/badge/MIME_Sniffing-Content--Type_Exploitation-95A5A6?style=flat-square" />
   <img src="https://img.shields.io/badge/Session_Hijacking-Cookie_Theft_•_Fixation-2C3E50?style=flat-square" />
   <img src="https://img.shields.io/badge/Business_Logic_Flaws-Workflow_Abuse-16A085?style=flat-square" />
   <img src="https://img.shields.io/badge/Authentication_Bypass-Credential_•_MFA_Abuse-8E44AD?style=flat-square" />
   <img src="https://img.shields.io/badge/File_Upload-Extension_•_Content--Type_Bypass-D35400?style=flat-square" />
-  <img src="https://img.shields.io/badge/WebSocket_Security-Message_Hijacking-3498DB?style=flat-square" />
   <img src="https://img.shields.io/badge/Recon_&_Enumeration-Bug_Bounty_Methodology-2ECC71?style=flat-square" />
 </p>
 
 ---
 
-#### 🔑 Applied Cryptography
+#### 🔬 Reverse Engineering
 
+<p align="center">
+  <img src="https://img.shields.io/badge/x86/x64_Assembly-Instruction_Set_•_Calling_Conventions-2C3E50?style=flat-square" />
+  <img src="https://img.shields.io/badge/PE_%26_ELF_Binary_Format-Headers_•_Sections_•_Imports-34495E?style=flat-square" />
+  <img src="https://img.shields.io/badge/Static_Analysis-Disassembly_•_String_%26_Import_Analysis-16A085?style=flat-square" />
+  <img src="https://img.shields.io/badge/Dynamic_Analysis-Debugger--Driven_Execution_Tracing-27AE60?style=flat-square" />
+  <img src="https://img.shields.io/badge/Ghidra-Decompilation_•_Scripting-2980B9?style=flat-square" />
+  <img src="https://img.shields.io/badge/GDB-Breakpoints_•_Memory_Inspection_•_Live_Patching-1F618D?style=flat-square" />
+  <img src="https://img.shields.io/badge/Unpacking_%26_Patching-Stub_Analysis_•_OEP_Recovery-8E44AD?style=flat-square" />
+  <img src="https://img.shields.io/badge/Anti--Debugging_%26_Anti--Disassembly-Evasion_Technique_Recognition-C0392B?style=flat-square" />
+  <img src="https://img.shields.io/badge/Control_Flow_Analysis-CFG_Reconstruction_•_Deobfuscation-D35400?style=flat-square" />
+  <img src="https://img.shields.io/badge/Relocation_%26_IAT_Resolution-Fixups_•_Import_Table_Repair-7F8C8D?style=flat-square" />
+</p>
+
+---
+
+#### 🦠 Malware Analysis
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Static_Malware_Analysis-Signature_•_Heuristic_•_IOC_Extraction-E74C3C?style=flat-square" />
+  <img src="https://img.shields.io/badge/Dynamic_%26_Behavioral_Analysis-Sandboxed_Detonation-C0392B?style=flat-square" />
+  <img src="https://img.shields.io/badge/Memory_Forensics-Volatility_3_•_EPROCESS_•_DKOM_Detection-8E44AD?style=flat-square" />
+  <img src="https://img.shields.io/badge/Network_Traffic_Analysis-C2_•_Beaconing_•_Exfiltration_Patterns-2980B9?style=flat-square" />
+  <img src="https://img.shields.io/badge/Threat_Intelligence-Pyramid_of_Pain_•_IOC_Provenance-16A085?style=flat-square" />
+  <img src="https://img.shields.io/badge/YARA_Rule_Development-Pattern--based_Detection-F39C12?style=flat-square" />
+  <img src="https://img.shields.io/badge/Malware_Family_Research-Mirai_•_WannaCry_•_Zeus_•_Stuxnet_•_Emotet-922B21?style=flat-square" />
+  <img src="https://img.shields.io/badge/Malware_Family_Research-AsyncRAT_•_Cobalt_Strike_•_RedLine_•_NotPetya--HermeticWiper-7B241C?style=flat-square" />
+  <img src="https://img.shields.io/badge/Packer_%26_Crypter_Analysis-Stub_%26_Payload_Separation-1ABC9C?style=flat-square" />
+  <img src="https://img.shields.io/badge/Sandbox_Evasion_Detection-VM_%26_Debugger_Fingerprinting-34495E?style=flat-square" />
+</p>
+
+---
+
+#### 🧪 Malware Development *(offensive technique research, isolated lab environments)*
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Process_Injection-DLL_•_Reflective_•_Process_Hollowing-C0392B?style=flat-square" />
+  <img src="https://img.shields.io/badge/Persistence_Mechanisms-Registry_•_Services_•_Scheduled_Tasks-8E44AD?style=flat-square" />
+  <img src="https://img.shields.io/badge/Shellcode_Development-Position--Independent_Code-E67E22?style=flat-square" />
+  <img src="https://img.shields.io/badge/Anti--Forensics_Concepts-Log_Tampering_•_Timestomping-7F8C8D?style=flat-square" />
+  <img src="https://img.shields.io/badge/Rootkit_%26_DKOM_Concepts-Kernel_Object_Manipulation-2C3E50?style=flat-square" />
+  <img src="https://img.shields.io/badge/C2_Framework_Design-Beacon_Protocols_•_Encrypted_Channels-16213E?style=flat-square" />
+  <img src="https://img.shields.io/badge/Obfuscation_%26_Packing-Custom_Stub_Design-1a1a2e?style=flat-square" />
+</p>
+
+---
+
+#### 🧰 Other Skills — DFIR & Tooling
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Digital_Forensics_%26_Incident_Response-DFIR_Methodology-27AE60?style=flat-square" />
+  <img src="https://img.shields.io/badge/Vulnerability_Research-Binary_%26_Web_Vuln_Discovery-E74C3C?style=flat-square" />
+  <img src="https://img.shields.io/badge/Binary_Exploitation-Buffer_Overflows_•_ROP_Chains-C0392B?style=flat-square" />
+  <img src="https://img.shields.io/badge/Environment--as--Variable_Methodology-Controlled_Experimental_Design-16A085?style=flat-square" />
+  <img src="https://img.shields.io/badge/Toolchain-Ghidra_•_GDB_•_Volatility_3_•_YARA_•_Wireshark_•_QEMU-2C3E50?style=flat-square" />
+</p>
+
+---
+
+#### 🔑 Applied Cryptography
 
 <p align="center">
   <img src="https://img.shields.io/badge/Modular_Arithmetic-Number_Theory_•_Euler_•_Fermat-0A192F?style=flat-square" />
@@ -244,4 +304,3 @@
 </p>
 
 ---
-
