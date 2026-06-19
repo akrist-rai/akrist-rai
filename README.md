@@ -22,12 +22,61 @@
 
 ## 🔭 Currently Building
 
+> Three things in active motion — security tooling, applied ML, and a gamified learning platform.
+
+### WebScan 🛡️
+**Zero-Dependency Security Scanner — Go**
+
 <table>
 <tr>
 <td width="55%">
 
+> A from-scratch security platform built by studying how tools like Nuclei, Burp, WPScan, and Nikto actually work, then implementing the core techniques with zero external dependencies.
+
+| Module | Capability |
+|--------|------------|
+| **Core Recon** | Headers, TLS, cookies, CORS, port scan, subdomain enum & takeover |
+| **Injection** | SQLi, XSS, SSTI, XXE, command injection, CRLF, LDAP injection |
+| **CVE & CMS** | 30+ CVE probes, WordPress/Drupal/Joomla deep scans, default creds |
+| **Discovery** | 280-path brute-force, arjun-style param discovery, BFS web crawler |
+| **Advanced** | OAST/OOB callbacks, GraphQL security suite, JWT `alg:none` detection |
+
+![Status](https://img.shields.io/badge/🚧_Status-Active_Development-FF6B6B?style=flat-square)
+![Stack](https://img.shields.io/badge/Go_1.21_Generics-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Scale](https://img.shields.io/badge/~5%2C800%2B_Lines_•_12_Files-2C3E50?style=flat-square)
+![Domain](https://img.shields.io/badge/Bug_Bounty_Tooling-E74C3C?style=flat-square)
+
+</td>
+<td width="45%" align="center">
+
+```
+        WebScan Engine
+       ┌─────────────┐
+       │   main.go   │
+       └──────┬──────┘
+   ┌──────┬───┴────┬───────┐
+   ▼      ▼        ▼       ▼
+checks  inject   recon    cve
+  .go     .go     .go     .go
+   │      │        │       │
+   └──────┴───┬────┴───────┘
+              ▼
+         report.go
+   (JSON / Markdown · CVSS + CWE)
+```
+
+</td>
+</tr>
+</table>
+
+---
+
 ### Commute 🚦
-**Spatio-Temporal Traffic Flow Prediction**
+**Spatio-Temporal Traffic Flow Prediction — Python, PyTorch**
+
+<table>
+<tr>
+<td width="55%">
 
 > Capturing how cities breathe — predicting traffic by learning both *where* congestion forms (space) and *when* it peaks (time), simultaneously.
 
@@ -60,6 +109,12 @@
   Out  │  ŷ t+Δ   │  ← predicted flow
        └───────────┘
 ```
+
+</td>
+</tr>
+</table>
+
+
 
 </td>
 </tr>
